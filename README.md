@@ -1,4 +1,5 @@
 gangliacheck
 ============
 
-Nagios plugin that consolidates multiple metrics into a single check event
+Gangliacheck is a Nagios plugin that queries Ganglia metric information.
+It's primary function is to consolidate the traditional multiple host resources checks into a single status check.
